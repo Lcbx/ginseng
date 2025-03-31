@@ -1,4 +1,4 @@
-cmake_minimum_required (VERSION 3.0)
+cmake_minimum_required (VERSION 3.10)
 project(Ginseng)
 
 set(GINSENG_BUILD_EXAMPLES No CACHE BOOL "Build examples")
